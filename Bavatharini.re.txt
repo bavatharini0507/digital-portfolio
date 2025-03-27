@@ -1,0 +1,10 @@
+personal details
+
+Name         :R.Bavatharini
+Date of birth:05/07/2006
+Gender       :female
+
+education details
+
+University   :Bharathidasan University
+Department   :BCA
